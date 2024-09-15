@@ -185,7 +185,7 @@ plot_gradient_descent(points, learning_rate)
 
 ## Applications of Gradient Descent
 
-###Machine Learning Model Training:
+### Machine Learning Model Training:
 
 Gradient Descent is one of the most commonly used algorithms for optimizing loss functions in machine learning models. It is used to update model parameters (e.g., weights and biases) during training in algorithms such as Linear Regression, Logistic Regression, Support Vector Machines, and Neural Networks.
 Stochastic Gradient Descent (SGD) and Mini-Batch Gradient Descent are common variations used in deep learning to train large-scale models efficiently.
